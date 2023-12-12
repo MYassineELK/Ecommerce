@@ -1,0 +1,37 @@
+.lodinpageabout{
+    background-image: url("./blog-04-1280x732.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 661px;
+
+}
+@media (max-width: 768px) {
+    .lodinpageabout{
+        background-image: url("./50d6be662d306160a1fc9c01a915789e.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+        height: 661px;
+    
+    }
+  }
+.ab1{
+    background-image: url("./damcreativ_A_hyperrealistic_image_capturing_a_well-built_surfer_7d9af0c0-09a9-4dff-8579-12f9e0263e43-768x1020.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 661px;
+
+}
+.ab2{
+    background-image: url("./page-03-1024x1024.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 661px;
+
+}
+.ab3{
+    background-image: url("./page-02-1024x1024.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 661px;
+
+}

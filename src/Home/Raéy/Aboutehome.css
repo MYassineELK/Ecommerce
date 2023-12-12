@@ -1,0 +1,13 @@
+.Newsemaile{
+    background-image: url("./banner-07.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 494px;
+    
+}
+
+.btne{
+    font-family: 'Roboto', sans-serif;
+    filter: brightness(0)
+   
+}

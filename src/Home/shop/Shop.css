@@ -1,0 +1,50 @@
+.button {
+    height: 45px;
+    background: black;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    cursor: pointer;
+    box-shadow: 3px 6px 10px 1px rgb(32, 32, 32);
+    transition-duration: .3s;
+  }
+  
+  .cartIcon {
+    width: 14px;
+    height: fit-content;
+  }
+  .carde {
+ 
+
+    transition: 0.6s;
+  }
+  
+  .carde:hover {
+    translate: 0 -20px;
+  }
+  @media (max-width: 768px) {
+    .carde {
+ 
+
+        transition: 0.6s;
+      }
+      
+      .carde:hover {
+        translate: 0 -10px;
+      }
+  }
+  .cartIcon path {
+    fill: white;
+  }
+  
+  .button:active {
+    transform: translate(2px ,0px);
+    box-shadow: 0px 1px 0px rgb(65, 65, 65);
+    padding-bottom: 1px;
+  }
+  

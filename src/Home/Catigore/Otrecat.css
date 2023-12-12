@@ -1,0 +1,85 @@
+.ctg1{
+        background-image: url("./damcreativ_Hyper-realistic_sales_image_of_a_ruggedly_handsome_m_ae369586-b022-4a0c-bdff-e92f71023302.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 800px;
+    
+}
+.ctg2{
+    background-image: url("./watchcatg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 394px;
+
+}.ctg3{
+    background-image: url("./cat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 394px;
+
+}
+.ctg32{
+    background-image: url("./cat.png");
+    background-repeat: no-repeat;
+    background-size:100%;
+    
+    
+    height: 440px;
+
+}
+.textcat1{
+    margin-top: 640px;
+
+}
+.ctg12{
+    background-image: url("./watchcatg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+
+}
+
+@media (max-width: 768px) {
+    .ctg1{
+        background-image: url("./damcreativ_Hyper-realistic_sales_image_of_a_ruggedly_handsome_m_ae369586-b022-4a0c-bdff-e92f71023302.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+    
+}
+.ctg12{
+    background-image: url("./watchcatg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+
+}
+.ctg32{
+    background-image: url("./fce5e68b26c929971127ba2c02dff560.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-color: #6d6c6c;
+    
+    
+    height: 800px;
+
+}
+.textcat1{
+    margin-top: 150px;
+
+}
+.ctg2{
+    background-image: url("./watchcatg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+
+}.ctg3{
+    background-image: url("./cat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    
+} 
+}
+

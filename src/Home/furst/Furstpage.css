@@ -1,0 +1,96 @@
+.playstore-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ffffff;
+    margin-left: 55px;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 1);
+    padding: 0.625rem 1.5rem;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    outline: 0;
+    transition: all  .2s ease;
+    text-decoration: none;
+   
+  }
+  .bag{
+    background-image: url("./banner-05c-scaled.jpg");
+  }
+  @media (max-width: 768px) {
+    .bag{
+        background-image: url("./c9629ef53317f795cbe7540292e7a799.jpg");
+        width: 100%;
+    }
+  }
+  .nave{
+    font-family: 'Roboto', sans-serif;
+    font-size: 700;
+    font-weight: 400;
+
+  }
+ 
+  
+  .navtext {
+    position: relative;
+    gap: 0.5rem;
+  }
+  .navtext::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    left: 0;
+    bottom: -7px;
+    background:rgb(255, 255, 255);
+    height: 2px;
+    transition: 0.3s ease-out;
+  }
+  
+  .navtext:hover::after {
+    width: 100%;
+  }
+  
+  .navtext:hover p::before {
+    width: 100%;
+  }
+  
+  
+  
+  
+  
+  .text{
+    font-family: 'Playfair Display', serif;
+  }
+  .text2{
+    font-family: 'Inclusive Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Quicksand', sans-serif;
+  }
+  .playstore-button:hover {
+    background-color: white;
+    color: rgba(0, 0, 0, 1);
+  }
+ 
+  .icon {
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+  
+  .texts {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1;
+  }
+  
+  .text-1 {
+    margin-bottom: 0.25rem;
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+  
+  .text-2 {
+    font-weight: 500;
+  }
