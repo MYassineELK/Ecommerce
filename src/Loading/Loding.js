@@ -8,7 +8,7 @@ export default function Loding(props) {
 <div className="spinnerContainer">
   <div className="spinner" />
   <div className="loader">
-  <h1 className=' text-base w-full -mt-8'>Welcome to my luxe store</h1>  
+  <h1 className=' text-xl w-full -mt-8 font-serif'>Welcome to my luxe store</h1>  
   </div>
 </div>
 
