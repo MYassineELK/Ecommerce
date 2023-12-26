@@ -14,9 +14,7 @@
     border-right-color: #ff8929;
     animation: tri-spinner 1s infinite linear;
   }
-  .text_l{
-   
-  }
+
   
   .spinner::before,
   .spinner::after {
